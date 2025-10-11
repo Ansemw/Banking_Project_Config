@@ -1,0 +1,11 @@
+build:
+  version: "4.0"
+
+loans:
+  message: "Welcome to loans related prod APIs "
+  contactDetails:
+    name: "Anurag Semwal - Prod Lead"
+    email: "anurag@prod.com"
+  onCallSupport:
+    - (777) 265-3765
+    - (777) 734-8371
