@@ -5,7 +5,7 @@ loans:
   message: "Welcome to loans related QA APIs "
   contactDetails:
     name: "Anurag Semwal - qa Lead"
-    email: "anurag@qa.com"
+    email: "{cipher}c66ff64e3ba19ddaac7039818eaeb69df9f6709394ad6b40236292d5b457533d"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
