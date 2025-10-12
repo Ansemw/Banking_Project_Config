@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to cards related QA APIs "
   contactDetails:
-    name: "Anurag Semwal - QA Lead"
+    name: "Anurag Semwal - QA Developer"
     email: "anurag@qa.com"
   onCallSupport:
     - (666) 265-3765
